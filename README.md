@@ -26,7 +26,7 @@ I am a result-driven professional from Bangladesh, focusing on technical problem
 ### 📫 How to reach me
 - **Agency Website**: [connectwithbayezid.it.com](https://www.connectwithbayezid.it.com)
 - **News Portal**: [genzfrontir.com](https://www.genzfrontir.com)
-- **WhatsApp**: [Connect for Consultancy]
+- **WhatsApp**: [https://wa.me/message/TDYG575YENF6F1]
 
 ### ⚡ Fun fact
 - I’m a final-year English Literature student who can analyze both a poem and a complex database structure with the same passion! 📚💻
