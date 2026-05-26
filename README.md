@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Digital Marketer | Web Designer | Tech Entrepreneur**
 
-Welcome to my GitHub profile! I'm a visionary tech leader with **5+ years of experience** delivering innovative digital solutions and building a thriving global tech ecosystem. As the founder of **Connect with Bayezid** and **GenZ Frontier**, I've helped **2,200+ clients worldwide** with a proven **98% client retention rate**.
+Welcome to my GitHub profile! I'm a visionary tech leader with **5+ years of experience** delivering innovative digital solutions and building a thriving global tech ecosystem. As the founder of **Connect with Bayezid** **SmartGen Utility platform** and **GenZ Frontier**, I've helped **2,200+ clients worldwide** with a proven **98% client retention rate**.
 
 ---
 
