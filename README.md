@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Sayad MD Bayezid Hosan
+#  Hi, I'm Sayad MD Bayezid Hosan
 
 **Full-Stack Web Developer | Digital Marketer | Web Designer | Tech Entrepreneur**
 
 Welcome to my GitHub profile! I'm a visionary tech leader with **5+ years of experience** delivering innovative digital solutions and building a thriving global tech ecosystem. As the founder of **Connect with Bayezid** **SmartGen Utility platform** and **GenZ Frontier**, I've helped **2,200+ clients worldwide** with a proven **98% client retention rate**.
-[smartgen](www.smartgentools.com) [genzfrontier](www.genzfrontir.com)
+
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm passionate about leveraging technology to solve real-world problems and empower businesses through digital transformation. My expertise spans the entire digital ecosystem—from cutting-edge web development and AI integration to strategic digital marketing and tech entrepreneurship.
 
-- 🌍 **Based in**: Auliabad, Kalihati, Tangail, Bangladesh
-- 🎓 **Education**: Final-year undergraduate student at Northern University Bangladesh, Department of English (Expected Graduation: June 2026)
-- 💼 **Specialization**: Permission-based technical solutions, digital business asset management, and safe digital platform navigation
-- 🤝 **Approach**: Combining academic knowledge with practical technical innovation
-- 🎯 **Vision**: Building a thriving digital ecosystem where businesses and individuals succeed together
+-  **Based in**: Auliabad, Kalihati, Tangail, Bangladesh
+-  **Education**: Final-year undergraduate student at Northern University Bangladesh, Department of English (Expected Graduation: June 2026)
+-  **Specialization**: Permission-based technical solutions, digital business asset management, and safe digital platform navigation
+-  **Approach**: Combining academic knowledge with practical technical innovation
+-  **Vision**: Building a thriving digital ecosystem where businesses and individuals succeed together
 
 ---
 
-## 💼 What I Do
+##  What I Do
 
 ### **Full-Stack Web Development**
 - Custom web applications and responsive websites
@@ -42,7 +42,7 @@ I'm passionate about leveraging technology to solve real-world problems and empo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**: JavaScript, Python, HTML5, CSS3, PHP
 
@@ -56,7 +56,7 @@ I'm passionate about leveraging technology to solve real-world problems and empo
 
 ---
 
-## 📊 By The Numbers
+##  By The Numbers
 
 - **2,200+** Happy clients worldwide
 - **98%** Client retention rate
@@ -65,12 +65,12 @@ I'm passionate about leveraging technology to solve real-world problems and empo
 
 ---
 
-## 🌟 My Ventures
+##  My Ventures
 
 ### **Connect with Bayezid**
 A comprehensive digital solutions agency specializing in custom web development, digital marketing, and tech consulting. Helping businesses navigate the digital landscape safely and efficiently.
 
-- 🌐 **Website**: [connectwithbayezid.it.com](https://www.connectwithbayezid.it.com)
+-  **Website**: [connectwithbayezid](https://www.connectwithbayezid.it.com)
 - 💼 **LinkedIn Services**: [Connect with Bayezid](https://www.linkedin.com/company/connectbayezid/)
 - 📧 **Email**: [cwb.agency@outlook.com](mailto:cwb.agency@outlook.com)
 
@@ -85,10 +85,10 @@ An innovative digital ecosystem platform designed for the next generation. Focus
 ## 📚 Featured Content & Resources
 
 - **Blog**: [Connect with Bayezid Blog](https://connectwithbayezid.blogspot.com/?m=1)
-- **GenZ Frontier Blog**: [genzfrontir.com](https://www.genzfrontir.com)
+- **GenZ Frontier News**: [Open source Bbc Style Premium News](https://www.genzfrontir.com)
 - **Crunchbase Profile**: [Sayad MD Bayezid Hosan](https://www.crunchbase.com/person/sayad-md-bayezid-hosan)
 - **Company Profiles**: [Connect with Bayezid](https://www.crunchbase.com/organization/connect-with-bayezid)
-
+# Our Dream Open source utility platform SmartGen [Smartgen](www.smartgentools.com)
 ---
 
 ## 🤝 Let's Connect & Collaborate
