@@ -1,0 +1,19 @@
+[book]
+title = "SmartGen Documentation"
+authors = ["Sayad Md Bayezid Hosan"]
+description = "Official documentation, guides, and API references for the SmartGen ecosystem."
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+mathjax-support = false
+# Adds a GitHub icon in the top right corner of your docs
+git-repository-url = "https://github.com/bayzed123/bayzed123"
+git-repository-icon = "fa-github"
+# Adds a "Suggest an edit" button at the bottom of every page
+edit-url-template = "https://github.com/bayzed123/bayzed123/edit/main/src/{path}"
